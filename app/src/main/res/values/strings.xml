@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">lab2b</string>
+
+    <string name="retangle_title">CHU VI &amp; DIEN TICH CHU NHAT</string>
+    <string name="retangle_description">Nhap vao chieu dai va chieu rong de tinh chu vi va dien tich hinh chu nhat do.</string>
+    <string name="retangle_enter_width">Chieu dai</string>
+    <string name="retangle_enter_height">Chieu rong</string>
+    <string name="retangle_button">Ket qua</string>
+    <string name="retangle_result_hint">Nhan \"Ket qua\" de tinh toan.</string>
+
+    <string name="cube_title">THE TICH KHOI LAP PHUONG</string>
+    <string name="cube_description">Nhap vao chieu dai canh de tinh the tich khoi lap phuong.</string>
+    <string name="cube_enter_edge">Chieu dai canh</string>
+    <string name="cube_button">Ket qua</string>
+    <string name="cube_result_hint">Nhan \"Ket qua\" de tinh toan.</string>
+
+    <string name="quadratic_title">GIAI PHUONG TRINH BAC 2</string>
+    <string name="quadratic_description">Nhap vao 3 an so a, b, c de giai phuong trinh bac 2.</string>
+    <string name="quadratic_enter_a">a =</string>
+    <string name="quadratic_enter_b">b =</string>
+    <string name="quadratic_enter_c">c =</string>
+    <string name="quadratic_button">Ket qua</string>
+    <string name="quadratic_result_hint">Nhan \"Ket qua\" de tinh toan.</string>
+
+
+</resources>
